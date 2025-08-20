@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Matheus Martins, tenho 20 anos e sou natural de Ipatinga, Minas Gerais. Sou técnico em Automação Industrial pelo IFMG e atualmente curso Engenharia de Software na Unileste. Tenho interesse por desenvolvimento de software, dados e tecnologia de forma geral.
+Sou estudante de Engenharia de Software (4º período) e Técnico em Automação Industrial pelo IFMG. Tenho experiência prática em desenvolvimento mobile, automação de processos e análise de dados, atuando em projetos de refatoração de aplicativos Android em Kotlin, criação de soluções automatizadas e aplicação de IA em contextos corporativos e startups.
 
 
 ### 🤖 Linguagens e Tecnologias
